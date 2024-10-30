@@ -1,0 +1,13 @@
+/COM,ANSYS RELEASE 2024 R2           BUILD 24.2      UP20240513       20:12:31
+
+ *** WARNING ***                         CP =       0.250   TIME= 20:12:31
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.266   TIME= 20:12:31
+ Material number 44 (used by element 9005) should normally have at least 
+ one MP or one TB type command associated with it.  Output of energy by  
+ material may not be available.                                          
+
+ *** WARNING ***                         CP =       0.812   TIME= 20:12:32
+ Coefficient ratio exceeds 1.0e8 - Check results.                        
